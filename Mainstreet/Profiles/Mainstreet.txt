@@ -1,0 +1,98 @@
+Tree Compatibility Version: 54
+Self
+	Immortality: On
+	Lock Wanted Level: On
+	No Combat Roll Cooldown: On
+Online
+	Session
+		Player Leave Reasons
+			Notification: On
+	Enhancements
+		Disable Idle/AFK Kick: On
+		Phone Animations: On
+	Protections
+		Events
+			Crash Event
+				Block Their Network Events: Enabled
+			Kick Event
+				Timeout: Enabled
+			Modded Event
+				Timeout: Enabled
+Players
+	Settings
+		Tags
+			Self: 
+			Friend: 
+			Crew Member: 
+			In Timeout: 
+			Modder: 
+			Admin: 
+			Likely Modder: 
+			Attacked You: 
+			Host: 
+			Next Host: 
+			Script Host: 
+			Invulnerable: 
+			Indestructible Vehicle: 
+			RC Vehicle: 
+			In An Interior: 
+			Spectating: 
+			Dead: 
+			VPN: 
+Stand
+	Settings
+		Appearance
+			Colours
+				Primary Colour: D3A07AFF
+				Focused Text Colour: 2C231EFF
+				Focused Texture Colour: 2C231EFF
+				Background Colour: 2C231EF5
+				HUD Colour: D3A07AFF
+				AR Colour: 00FFD0FF
+				Minigame Colour: 22FF00FF
+			Position: 136, 182
+			Header
+				Header: Custom
+				Frame Interval: 31
+				Background Blur: On
+			Address Bar
+				Root Name: Stand
+				Address Separator: Stand / Online
+				Height: 22
+				Text
+					X Offset: -1
+				Show Cursor Position: On
+			Cursor
+				Scroll Gap: 0
+				Colour: D3A07AFF
+			Tabs
+				Tabs: Off
+			Scrollbar
+				Scrollbar: Disabled
+			Command Info Text
+				Position: Bottom
+				Show Command Syntax: Off
+			Notifications
+				Custom Position: 32, 732
+				Width: 460
+				Padding: 20
+				Border Colour: D3A07AFF
+				Flash Colour: 000000FF
+				Background Colour: 000000BE
+			Commands
+				Text
+					Scale: 14
+					Y Offset: 5
+			Border
+				Width: 3
+				Colour: D3A07AFF
+			Max Visible Commands: 15
+			List Width: 443
+			List Height: 34
+			Spacer Size: 2
+			Smooth Scrolling: 40
+			Background Blur: 9
+		Info Text
+			Position: 1925, 1058
+			Alignment: Centre Right
+			Scale: 20

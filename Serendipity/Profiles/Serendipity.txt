@@ -1,0 +1,104 @@
+Tree Compatibility Version: 54
+Self
+	Movement
+		Levitation
+			Movement Speed: 2.00
+			Sprint Multiplier: 0.50
+			Movement Ignores Pitch: Off
+			Max Distance From Ground: 0.00
+			Speed: 0
+			Upward Force: 0.00
+			Downward Force: 0.00
+			Downward Deadzone: 0
+			Snapping: 0.00
+	Weapons
+		Gravity Gun
+			Force Multiplier: 0.70
+	Immortality: On
+	Lock Wanted Level: On
+	No Combat Roll Cooldown: On
+Online
+	Reactions
+		Vote Kick Reactions
+			Voting To Kick Anyone
+				Notification: Enabled
+				Kick: Enabled
+				Crash: Enabled
+				Timeout: Enabled
+			Voting To Kick Me
+				Kick: Enabled
+				Crash: Enabled
+		Love Letter Kick Reactions
+			Notification: Enabled
+			Timeout: Enabled
+			Block Their Network Events: Enabled
+Game
+	Info Overlay
+		Real-World Time: On
+		Player Tags
+			Friend: On
+			Modder: On
+			Host: On
+			Next Host: On
+Stand
+	Settings
+		Appearance
+			Colours
+				Primary Colour: 000000BE
+				Background Colour: 00000064
+				HUD Colour: FFFFFFFF
+				AR Colour: FFFFFFC7
+			Position: 1272, 194
+			Header
+				Header: Custom
+				Frame Interval: 1
+			Address Bar
+				Address Bar: Off
+				Root Name: Stand {}
+			Cursor
+				Scroll Gap: 0
+				Colour: FF0000AA
+			Tabs
+				Tabs: Off
+				Width: 113
+			Scrollbar
+				Scrollbar: Disabled
+			Command Info Text
+				Width: 310
+				Show Command Syntax: Off
+				Show Owning Script: Off
+			Notifications
+				Width: 460
+				Padding: 15
+				Border Colour: FF0000FF
+				Flash Colour: FF0000FF
+				Background Colour: 0000005F
+			Commands
+				Text
+					Scale: 13
+					Y Offset: 7
+			Border
+				Width: 6
+				Colour: 000000BE
+			Max Visible Commands: 22
+			List Width: 390
+			List Height: 36
+			Spacer Size: 12
+			Smooth Scrolling: 80
+			Background Blur: 2
+			Font & Text
+				Command Box Input Text
+					Scale: 12
+					X Offset: 4
+					Y Offset: 5
+				Small Text
+					Scale: 11
+					X Offset: 4
+		Info Text
+			Position: 1896, 18
+			Scale: 15
+		Hide Information
+			Hide IP Address: Me
+			Hide GeoIP: Me
+		Session Joining
+			Automatically Change Targeting Mode: On

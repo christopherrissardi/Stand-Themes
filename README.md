@@ -1,6 +1,6 @@
 
 
-# Stand Themes - All Created By Me
+# 📌 Stand Themes - All Created By Me
 
 Repository dedicated to placing my [Stand](https://stand.sh/) mod Themes. All themes in the repository are my own and were all created 100% by me. I will update the repository over time as more themes are created.
 
@@ -8,7 +8,7 @@ If you want to use the Stand mod themes present in this repository, I will leave
 
 ---
 
-## How to Install Themes
+## 📋 How to Install Themes
 
 
 1. Clone this repository repository by clicking on `<> Code` and download the ZIP repository
@@ -18,11 +18,11 @@ If you want to use the Stand mod themes present in this repository, I will leave
 5. Replace everything you order and you're good to go.
 6. Enter your GTA V, inject your Stand and go to settings and load the profile that appears
 
-**(Remember to take a backup of your old theme if you don't want to lose it!!!)**
+**⚠️ (Remember to take a backup of your old theme if you don't want to lose it!!!)**
 
-If you want to go back to your old theme, just copy the 3 folders you backed up again and paste them into the Stand folder and change the Mod settings!
+🎯 If you want to go back to your old theme, just copy the 3 folders you backed up again and paste them into the Stand folder and change the Mod settings!
 
 ---
 
-I don't usually create many themes, but whenever I do I will update it here in the repository.
+I don't usually create many themes, but whenever I do I will update it here in the repository. 👆
 
